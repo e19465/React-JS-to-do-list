@@ -16,8 +16,8 @@ React To-Do List responsive Application
 ## Here is the responsive design
 
 - Mobile view
-  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/mobile.PNG)
+![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/mobile.PNG)
 - Tablet view
-  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/tab.PNG)
+![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/tab.PNG)
 - PC view
-  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/pc.PNG)
+![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/pc.PNG)
