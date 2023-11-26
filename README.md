@@ -12,7 +12,10 @@ React To-Do List responsive Application
 
   
 ## Explore Blog App here
--  https://sasindu-e19465-react-blog-app.netlify.app/
+-  https://sasindu-e19465-to-do-list.netlify.app/
+
+
+
 ## Here is the responsive design
 
 - Mobile view
