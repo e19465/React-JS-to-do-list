@@ -14,6 +14,10 @@ React To-Do List responsive Application
 ## Explore Blog App here
 -  https://sasindu-e19465-react-blog-app.netlify.app/
 ## Here is the responsive design
-- ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/mobile.PNG)
-- ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/tab.PNG)
-- ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/pc.PNG)
+
+- Mobile view
+  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/mobile.PNG)
+- Tablet view
+  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/tab.PNG)
+- PC view
+  ![](https://github.com/e19465/React-JS-to-do-list/blob/main/src/assests/pc.PNG)
